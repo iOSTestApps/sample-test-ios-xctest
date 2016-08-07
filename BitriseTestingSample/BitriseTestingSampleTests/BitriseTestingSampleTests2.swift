@@ -22,6 +22,7 @@ class BitriseTestingSampleTests2: XCTestCase {
     }
 
     func testExample() {
+        fatalError()
         // This is an example of a functional test case.
         XCTAssert(false, "Fail")
     }
